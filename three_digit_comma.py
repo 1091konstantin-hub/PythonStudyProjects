@@ -3,6 +3,6 @@
 
 number = int(input("Enter a three-digit number: "))  # three-digit number input
 hundreds = number // 100  # counts hundred
-tens = number // 10 % 10  # counts tens  
-ones = number % 100 % 10  # counts ones
+tens = (number // 10) % 10  # counts tens  
+ones = number % 10  # counts ones
 print(hundreds, tens, ones, sep=",")  # display three-digit number (separated by comma)
