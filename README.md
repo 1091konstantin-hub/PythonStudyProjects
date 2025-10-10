@@ -1,9 +1,9 @@
 # Python Study Projects 🐍
 
-Мои учебные проекты и решения задач для изучения Python.
+My learning projects and task solutions for studying Python.
 
-## 📚 Содержание
-- Базовые математические операции
-- Работа со строками  
-- Конвертеры единиц измерения
-- Алгоритмы и прогрессии
+## 📚 Contents
+- Basic math operations
+- String manipulation
+- Unit converters
+- Algorithms and progressions
