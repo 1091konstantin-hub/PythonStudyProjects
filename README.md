@@ -7,3 +7,5 @@ My learning projects and task solutions for studying Python.
 - String manipulation
 - Unit converters
 - Algorithms and progressions
+- **basic_math/** - Basic arithmetic operations
+
