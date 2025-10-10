@@ -8,4 +8,5 @@ My learning projects and task solutions for studying Python.
 - Unit converters
 - Algorithms and progressions
 - **basic_math/** - Basic arithmetic operations
+- **string_operations/** - String manipulation tasks
 
