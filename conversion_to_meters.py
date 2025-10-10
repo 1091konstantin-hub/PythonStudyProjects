@@ -1,10 +1,5 @@
-# вычисление остатка сантиметров , после преобразования сантиметров в метры
-centimeters = int(input()) # введенное число сантиметров
-centimeters_in_meters = 100 # количество сантиметров в метре
-meters = centimeters // centimeters_in_meters # формула вычисления , делит заданые сантиметры на количество                                                        сантиметров в метре
-print(meters) #выводит результат формулы
-
-
-
-
-
+# Convert centimeters to meters
+centimeters = int(input())  # Input centimeters
+centimeters_in_meter = 100  # Centimeters in one meter
+meters = centimeters // centimeters_in_meter  # Calculate meters
+print(meters)  # Output result
