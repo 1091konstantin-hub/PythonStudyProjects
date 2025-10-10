@@ -1,7 +1,6 @@
-# геометрическая прогрессия 
-b1 = int(input()) # первое число геометрической прогрессии 
-q = int(input()) # знаменатель прогресии
-n = int(input()) # модуль числа геометрической прогрессии
-B_n = b1*q**(n-1) # формула геометрической прогрессии
-geometric_progression = B_n # имя которое хранит формулу геометрической прогрессии
-print(geometric_progression) #вывод результата формулы на экран
+# Geometric progression calculator
+b1 = int(input())  # First number in progression
+q = int(input())  # Progression denominator
+n = int(input())  # Member number in progression
+b_n = b1 * q ** (n - 1)  # Geometric progression formula
+print(b_n)  # Result
