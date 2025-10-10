@@ -1,4 +1,4 @@
-# Программа которая расчитывает сумму цифр двухзначного числа 
-number = int(input("Enter a number:  "))  # Просим ввести число 
-formula = ((number // 10) + (number % 10))  # Формула считает сумму цифр 2значного числа
-print("Result: ", formula)  # Результат формулы
+# Program that calculates the sum of digits of a two-digit number
+number = int(input("Enter a number: "))  # Ask to enter a number
+formula = ((number // 10) + (number % 10))  # Formula calculates sum of digits
+print("Result: ", formula)  # Formula result
