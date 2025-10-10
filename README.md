@@ -10,3 +10,4 @@ My learning projects and task solutions for studying Python.
 - **basic_math/** - Basic arithmetic operations
 - **string_operations/** - String manipulation tasks
 - **converters/** - Unit conversion programs
+- **math_progressions/** - Arithmetic and geometric progressions
