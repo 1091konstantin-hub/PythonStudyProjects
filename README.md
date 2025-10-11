@@ -12,3 +12,4 @@ My learning projects and task solutions for studying Python.
 - **converters/** - Unit conversion programs
 - **math_progressions/** - Arithmetic and geometric progressions
 - **algorithms/** - Basic algorithms and calculations
+- **other/** - Miscellaneous programs and experiments
